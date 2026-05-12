@@ -4,7 +4,7 @@ The twenty-fifth session of the LSST Discovery Alliance Data Science Fellowship 
 
 - Dr. Rob Morgan, Google [:octocat:](https://github.com/rmorgan10)
 - Dr. Ioana Ciuca, Stanford University [:octocat:](https://github.com/IoanaCiuca)
-- Dr. Alexsandra Ciprijanovic, Fermi National Accelerator Laboratory [:octocat:](https://github.com/AleksCipri)
+- Dr. Aleksandra Ciprijanovic, Fermi National Accelerator Laboratory [:octocat:](https://github.com/AleksCipri)
 - Dr. Yongseok Jo, SkAI Institute [:octocat:](https://github.com/YongseokJo)
 
 Lectures were also delivered by the DSFP leadership team:
